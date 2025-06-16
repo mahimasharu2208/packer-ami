@@ -1,0 +1,4 @@
+- Write Packer Code
+- Run "packer init ." to install the dependencies from the code
+- Run "packer validate <Filename.pkr.hcl>" to validate the configuration of the packer file.
+- Run "packer build <Filename.pkr.hcl>" to build the image from packer
