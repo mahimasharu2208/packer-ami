@@ -1,4 +1,4 @@
-# packer-ami
+# Packer-AMI
 
 ## Created AMI for nginx-ubuntu using packer.
 
